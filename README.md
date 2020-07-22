@@ -5,4 +5,4 @@ In this Scholarship Challenge awarded by Udacity, I am polishing my problem solv
 # Learning Objectives
 - Python Object Oriented Programming
 - Class, Objects, Methods and Attributes
-- Gaussian Class
+- Gaussian Class, Gaussian and Binomial Distributions.
