@@ -11,6 +11,6 @@ In this Scholarship Challenge awarded by Udacity, I am polishing my problem solv
 - Sci-kit Learn
 - Setting a Python Package and uploading the package to PyPy
 - Advanced Python OOP in Scikit Learn ie decorators, mixins
-- Machine Learning with AWS Deep Composer
+- Machine Learning with AWS Deep Composer in generating music using Generative AI
 
 
